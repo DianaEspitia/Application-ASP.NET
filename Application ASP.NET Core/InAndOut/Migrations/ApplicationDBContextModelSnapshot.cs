@@ -15,8 +15,8 @@ namespace InAndOut.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
+                .HasAnnotation("ProductVersion", "3.1.17")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
-                .HasAnnotation("ProductVersion", "5.0.7")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
             modelBuilder.Entity("InAndOut.Models.Expense", b =>
@@ -131,8 +131,6 @@ namespace InAndOut.Migrations
                         .HasForeignKey("ExpenseTypeId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.Navigation("ExpenseType");
                 });
 #pragma warning restore 612, 618
         }

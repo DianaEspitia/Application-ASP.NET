@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/aspnet:5.0
+FROM mcr.microsoft.com/dotnet/aspnet:3.1
 COPY bin/Release/net5.0/publish/ App/
 WORKDIR /App
 EXPOSE 8080
