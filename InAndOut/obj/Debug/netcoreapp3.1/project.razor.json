@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\InAndOut.csproj",
+  "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\InAndOut.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,113 +14402,113 @@
   "RootNamespace": "InAndOut",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\ExpenseType\\Delete.cshtml",
-      "TargetPath": "Views\\ExpenseType\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\ExpenseType\\Create.cshtml",
-      "TargetPath": "Views\\ExpenseType\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\Transaccion\\Index.cshtml",
-      "TargetPath": "Views\\Transaccion\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\Item\\Index.cshtml",
-      "TargetPath": "Views\\Item\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\Appointment\\Index.cshtml",
-      "TargetPath": "Views\\Appointment\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\Transaccion\\Update.cshtml",
-      "TargetPath": "Views\\Transaccion\\Update.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\ExpenseType\\Update.cshtml",
-      "TargetPath": "Views\\ExpenseType\\Update.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\Item\\Create.cshtml",
-      "TargetPath": "Views\\Item\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\Transaccion\\Delete.cshtml",
-      "TargetPath": "Views\\Transaccion\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\Expense\\Delete.cshtml",
-      "TargetPath": "Views\\Expense\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\ExpenseType\\Index.cshtml",
-      "TargetPath": "Views\\ExpenseType\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\Expense\\Create.cshtml",
-      "TargetPath": "Views\\Expense\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\Expense\\Update.cshtml",
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\Expense\\Update.cshtml",
       "TargetPath": "Views\\Expense\\Update.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\Transaccion\\Create.cshtml",
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\Item\\Index.cshtml",
+      "TargetPath": "Views\\Item\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\Expense\\Delete.cshtml",
+      "TargetPath": "Views\\Expense\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\Transaccion\\Create.cshtml",
       "TargetPath": "Views\\Transaccion\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\Application ASP.NET Core\\InAndOut\\Views\\Expense\\Index.cshtml",
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\ExpenseType\\Create.cshtml",
+      "TargetPath": "Views\\ExpenseType\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\Appointment\\Index.cshtml",
+      "TargetPath": "Views\\Appointment\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\ExpenseType\\Delete.cshtml",
+      "TargetPath": "Views\\ExpenseType\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\Transaccion\\Delete.cshtml",
+      "TargetPath": "Views\\Transaccion\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\ExpenseType\\Update.cshtml",
+      "TargetPath": "Views\\ExpenseType\\Update.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\Transaccion\\Update.cshtml",
+      "TargetPath": "Views\\Transaccion\\Update.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\Transaccion\\Index.cshtml",
+      "TargetPath": "Views\\Transaccion\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\Item\\Create.cshtml",
+      "TargetPath": "Views\\Item\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\Expense\\Index.cshtml",
       "TargetPath": "Views\\Expense\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\Expense\\Create.cshtml",
+      "TargetPath": "Views\\Expense\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\ExpenseType\\Index.cshtml",
+      "TargetPath": "Views\\ExpenseType\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DianaEspitiaTorres\\Documents\\GitHub\\OpenShift-NET-SQLServer\\AppCompanyNet\\Application-ASP.NET\\InAndOut\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     }
   ],
